@@ -46,4 +46,5 @@ public class Crime {
     public void setSolved(boolean mSolved) {
         this.mSolved = mSolved;
     }
+
 }
